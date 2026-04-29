@@ -24,8 +24,8 @@
 
 </div>
 
-<!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+<!-- Divider -->
+<img src="./assets/divider.svg" alt="divider" width="100%">
 
 <!-- About Me Section Banner -->
 <div align="center">
@@ -43,7 +43,7 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 - Infrastructure as Code at scale (~200 AWS accounts, multi-cloud governance)
 
 <!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+<img src="./assets/divider.svg" alt="divider" width="100%">
 
 ## 🛠️ Featured Projects
 
@@ -62,7 +62,7 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 </div>
 
 <!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+<img src="./assets/divider.svg" alt="divider" width="100%">
 
 ## 🏆 Certifications
 
@@ -77,7 +77,7 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 </div>
 
 <!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+<img src="./assets/divider.svg" alt="divider" width="100%">
 
 ## ⚙️ Tech Stack
 
@@ -129,7 +129,7 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 </table>
 
 <!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+<img src="./assets/divider.svg" alt="divider" width="100%">
 
 <div align="center">
 
