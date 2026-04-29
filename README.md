@@ -22,8 +22,8 @@
 
 </div>
 
-<!-- Divider -->
-<img src="./assets/divider.svg" alt="divider" width="100%">
+<!-- Divider 1 -->
+<img src="./assets/divider-1.svg" alt="divider" width="100%">
 
 <!-- About Me Section Banner -->
 <div align="center">
@@ -40,8 +40,8 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 - Kubernetes (EKS) with GitOps delivery, security-first networking, and full observability
 - Infrastructure as Code at scale (~200 AWS accounts, multi-cloud governance)
 
-<!-- Animated divider -->
-<img src="./assets/divider.svg" alt="divider" width="100%">
+<!-- Divider 2 -->
+<img src="./assets/divider-2.svg" alt="divider" width="100%">
 
 ## 🛠️ Featured Projects
 
@@ -59,8 +59,8 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 
 </div>
 
-<!-- Animated divider -->
-<img src="./assets/divider.svg" alt="divider" width="100%">
+<!-- Divider 3 -->
+<img src="./assets/divider-3.svg" alt="divider" width="100%">
 
 ## 🏆 Certifications
 
@@ -74,8 +74,8 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 
 </div>
 
-<!-- Animated divider -->
-<img src="./assets/divider.svg" alt="divider" width="100%">
+<!-- Divider 4 -->
+<img src="./assets/divider-4.svg" alt="divider" width="100%">
 
 ## ⚙️ Tech Stack
 
@@ -126,13 +126,10 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 </tr>
 </table>
 
-<!-- Animated divider -->
-<img src="./assets/divider.svg" alt="divider" width="100%">
-
 <div align="center">
 
 <a href="https://eric-n.com/resume/Eric_Nguyen_Resume.pdf">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=120&section=footer&text=📄%20Download%20My%20Resume&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Download My Resume" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=120&section=footer&text=📄%20Download%20My%20Resume&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Download My Resume" width="100%"/>
 </a>
 
 </div>
