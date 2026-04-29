@@ -134,11 +134,7 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 <div align="center">
 
 <a href="https://eric-n.com/resume/Eric_Nguyen_Resume.pdf">
-<img alt="Download My Resume" src="https://custom-icon-badges.demolab.com/badge/-Download%20My%20Resume-8b5cf6?style=for-the-badge&logo=download&logoColor=white" height="40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=120&section=footer&text=📄%20Download%20My%20Resume&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Download My Resume" width="100%"/>
 </a>
-
-<br/><br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=80&section=footer)
 
 </div>
