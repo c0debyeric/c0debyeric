@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=180&section=header&text=Eric%20Nguyen&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Platform%20Engineer%20%7C%20AI%20Infrastructure%20%7C%20Kubernetes&descSize=18&descAlignY=75&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=220&section=header&text=Eric%20Nguyen&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Platform%20Engineer%20%7C%20AI%20Infrastructure%20%7C%20Kubernetes&descSize=18&descAlignY=50&descAlign=50)
 
 <!-- Typing SVG -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -24,9 +24,15 @@
 
 </div>
 
----
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-## About Me
+<!-- About Me Section Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf620,50:4a90e220,100:8b5cf620&height=1" width="100%"/>
+</div>
+
+## 🚀 About Me
 
 Platform Engineer building the infrastructure that AI runs on. I design, build, and operate self-service cloud platforms, AI-powered automation, and Kubernetes-based delivery systems at enterprise scale.
 
@@ -36,15 +42,29 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 - Kubernetes (EKS) with GitOps delivery, security-first networking, and full observability
 - Infrastructure as Code at scale (~200 AWS accounts, multi-cloud governance)
 
-### Featured Projects
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-| Project | What It Does |
-|---|---|
-| [**CodeGuardian AI**](https://github.com/c0debyeric/CodeGuardian-AI) | AI security code reviewer on AWS EKS — Bedrock Claude, Terraform, ArgoCD GitOps, 6-layer defense-in-depth |
-| [**AI Agent Platform**](https://github.com/c0debyeric/AI-Agent-Platform) | Multi-agent DevOps automation with CrewAI — infra review, security scanning, docs generation |
-| [**MLOps Pipeline**](https://github.com/c0debyeric/MLOps-Pipeline) | End-to-end ML lifecycle on Kubernetes — MLflow, Argo Workflows, vLLM serving, Prometheus monitoring |
+## 🛠️ Featured Projects
 
-### Certifications
+<div align="center">
+
+<a href="https://github.com/c0debyeric/CodeGuardian-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=c0debyeric&repo=CodeGuardian-AI&theme=react&bg_color=0d1117&title_color=9b6dff&icon_color=4a90e2&hide_border=true&border_color=30363d" width="400"/>
+</a>
+<a href="https://github.com/c0debyeric/AI-Agent-Platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=c0debyeric&repo=AI-Agent-Platform&theme=react&bg_color=0d1117&title_color=9b6dff&icon_color=4a90e2&hide_border=true&border_color=30363d" width="400"/>
+</a>
+<a href="https://github.com/c0debyeric/MLOps-Pipeline">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=c0debyeric&repo=MLOps-Pipeline&theme=react&bg_color=0d1117&title_color=9b6dff&icon_color=4a90e2&hide_border=true&border_color=30363d" width="400"/>
+</a>
+
+</div>
+
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## 🏆 Certifications
 
 <div align="center">
 
@@ -56,7 +76,10 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 
 </div>
 
-### Tech Stack
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+## ⚙️ Tech Stack
 
 <table align="center">
 <tr>
@@ -104,6 +127,9 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 </td>
 </tr>
 </table>
+
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 <div align="center">
 
