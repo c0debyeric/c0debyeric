@@ -47,37 +47,44 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 <td align="center" width="160"><b>☁️ Cloud & IaC</b></td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker&theme=dark" alt="Cloud & IaC"/>
+<br><sub>AWS · Azure · Terraform · Kubernetes · Docker</sub>
 </td>
 </tr>
 <tr>
 <td align="center"><b>🤖 AI & ML</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=aws,pytorch,python&theme=dark" alt="AI & ML"/>
+<img src="https://skillicons.dev/icons?i=aws,pytorch,py&theme=dark" alt="AI & ML"/>
+<br><sub>Bedrock · CrewAI · MLflow · vLLM · PyTorch</sub>
 </td>
 </tr>
 <tr>
 <td align="center"><b>🔄 CI/CD & GitOps</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=githubactions,kubernetes,helm&theme=dark" alt="CI/CD & GitOps"/>
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="CI/CD & GitOps"/>
+<br><sub>GitHub Actions · ArgoCD · Helm</sub>
 </td>
 </tr>
 <tr>
 <td align="center"><b>📊 Observability</b></td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Observability"/>
+<br><sub>Prometheus · Grafana · OpenTelemetry</sub>
 </td>
 </tr>
 <tr>
 <td align="center"><b>💻 Languages</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,flutter&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=py,bash,flutter&theme=dark" alt="Languages"/>
+<br><sub>Python · Bash · Flutter</sub>
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-[![Download My Resume](https://img.shields.io/badge/📄_Download_My_Resume-4a90e2?style=for-the-badge&logoColor=white)](https://eric-n.com/resume)
+<a href="https://eric-n.com/resume/Eric_Nguyen_Resume.pdf">
+<img src="https://img.shields.io/badge/📄_Download_My_Resume-8b5cf6?style=for-the-badge&logoColor=white" alt="Download My Resume" height="40"/>
+</a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=80&section=footer)
 
