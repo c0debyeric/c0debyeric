@@ -4,22 +4,20 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=The%20man%20who%20automates%20everything;If%20I%20did%20it%20twice%2C%20it's%20getting%20a%20pipeline&font=Fira%20Code&center=true&width=500&height=45&color=9b6dff&vCenter=true&pause=1000&size=20" />
+<img src="https://readme-typing-svg.demolab.com/?lines=The%20man%20who%20automates%20everything;If%20I%20did%20it%20twice%2C%20it's%20getting%20a%20pipeline&font=Fira%20Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=800&duration=3000&size=20" />
 </a>
-
-<br/>
 
 <!-- Social badges -->
 <a href="https://eric-n.com">
-<img alt="Website" src="https://custom-icon-badges.demolab.com/badge/eric--n.com-4285F4?style=for-the-badge&logo=globe&logoColor=white"/>
+<img alt="Website" src="https://img.shields.io/badge/eric--n.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-&#8287;&#8287;
+&nbsp;
 <a href="https://linkedin.com/in/eric-nguyenit">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&#8287;&#8287;
+&nbsp;
 <a href="mailto:github-s@eric-n.com">
-<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img alt="Email" src="https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
