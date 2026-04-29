@@ -34,8 +34,9 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 
 [![AWS Solutions Architect](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
 [![AWS AI Practitioner](https://images.credly.com/size/100x100/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner)
+[![AWS GenAI Developer](https://images.credly.com/size/100x100/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional)
 [![Azure Administrator](https://images.credly.com/size/100x100/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
-[![Terraform Associate](https://images.credly.com/size/100x100/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](https://www.credly.com/org/hashicorp/badge/hashicorp-certified-terraform-associate-003)
+[![Terraform Associate](https://images.credly.com/size/100x100/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/org/hashicorp/badge/hashicorp-certified-terraform-associate-004)
 
 </div>
 
