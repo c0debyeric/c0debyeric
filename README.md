@@ -2,9 +2,25 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=180&section=header&text=Eric%20Nguyen&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Platform%20Engineer%20%7C%20AI%20Infrastructure%20%7C%20Kubernetes&descSize=18&descAlignY=75&descAlign=50)
 
-[![Website](https://img.shields.io/badge/🌐_eric--n.com-4285F4?style=for-the-badge)](https://eric-n.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-nguyenit)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github-s@eric-n.com)
+<!-- Typing SVG -->
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?lines=Platform%20Engineer%20%7C%20AI%20Infrastructure;Building%20self-service%20cloud%20platforms;Kubernetes%20%2B%20GitOps%20at%20enterprise%20scale;IaC%20across%20200%2B%20AWS%20accounts&font=Fira%20Code&center=true&width=500&height=45&color=9b6dff&vCenter=true&pause=1000&size=20" />
+</a>
+
+<br/>
+
+<!-- Social badges -->
+<a href="https://eric-n.com">
+<img alt="Website" src="https://custom-icon-badges.demolab.com/badge/eric--n.com-4285F4?style=for-the-badge&logo=globe&logoColor=white"/>
+</a>
+&#8287;&#8287;
+<a href="https://linkedin.com/in/eric-nguyenit">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&#8287;&#8287;
+<a href="mailto:github-s@eric-n.com">
+<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -83,8 +99,10 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 <div align="center">
 
 <a href="https://eric-n.com/resume/Eric_Nguyen_Resume.pdf">
-<img src="https://img.shields.io/badge/📄_Download_My_Resume-8b5cf6?style=for-the-badge&logoColor=white" alt="Download My Resume" height="40"/>
+<img alt="Download My Resume" src="https://custom-icon-badges.demolab.com/badge/-Download%20My%20Resume-8b5cf6?style=for-the-badge&logo=download&logoColor=white" height="40"/>
 </a>
+
+<br/><br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=80&section=footer)
 
