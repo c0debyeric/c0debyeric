@@ -4,7 +4,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Platform%20Engineer%20%7C%20AI%20Infrastructure;Building%20self-service%20cloud%20platforms;Kubernetes%20%2B%20GitOps%20at%20enterprise%20scale;IaC%20across%20200%2B%20AWS%20accounts&font=Fira%20Code&center=true&width=500&height=45&color=9b6dff&vCenter=true&pause=1000&size=20" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Platform%20Engineer%20%7C%20AI%20Infrastructure;The%20man%20who%20automates%20everything;If%20I%20did%20it%20twice%2C%20it's%20getting%20a%20pipeline;Kubernetes%20%2B%20GitOps%20at%20enterprise%20scale&font=Fira%20Code&center=true&width=500&height=45&color=9b6dff&vCenter=true&pause=1000&size=20" />
 </a>
 
 <br/>
