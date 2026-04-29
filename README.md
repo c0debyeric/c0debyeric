@@ -4,7 +4,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Platform%20Engineer%20%7C%20AI%20Infrastructure;The%20man%20who%20automates%20everything;If%20I%20did%20it%20twice%2C%20it's%20getting%20a%20pipeline;Kubernetes%20%2B%20GitOps%20at%20enterprise%20scale&font=Fira%20Code&center=true&width=500&height=45&color=9b6dff&vCenter=true&pause=1000&size=20" />
+<img src="https://readme-typing-svg.demolab.com/?lines=The%20man%20who%20automates%20everything;If%20I%20did%20it%20twice%2C%20it's%20getting%20a%20pipeline&font=Fira%20Code&center=true&width=500&height=45&color=9b6dff&vCenter=true&pause=1000&size=20" />
 </a>
 
 <br/>
@@ -62,36 +62,45 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 <tr>
 <td align="center" width="160"><b>☁️ Cloud & IaC</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker&theme=dark" alt="Cloud & IaC"/>
-<br><sub>AWS · Azure · Terraform · Kubernetes · Docker</sub>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>🤖 AI & ML</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=aws,pytorch,py&theme=dark" alt="AI & ML"/>
-<br><sub>Bedrock · CrewAI · MLflow · vLLM · PyTorch</sub>
+<img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/CrewAI-171717?style=for-the-badge&logoColor=white" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/vLLM-4B0082?style=for-the-badge&logoColor=white" alt="vLLM"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>🔄 CI/CD & GitOps</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="CI/CD & GitOps"/>
-<br><sub>GitHub Actions · ArgoCD · Helm</sub>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>📊 Observability</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Observability"/>
-<br><sub>Prometheus · Grafana · OpenTelemetry</sub>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>💻 Languages</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=py,bash,flutter&theme=dark" alt="Languages"/>
-<br><sub>Python · Bash · Flutter</sub>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </td>
 </tr>
 </table>
