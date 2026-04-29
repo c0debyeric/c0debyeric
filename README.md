@@ -83,49 +83,49 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 <tr>
 <td align="center" width="160"><b>☁️ Cloud & IaC</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-<img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" alt="Packer"/>
+<img src="https://img.shields.io/badge/AWS-7c3aed?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure-7c3aed?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Terraform-7c3aed?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Kubernetes-7c3aed?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Ansible-7c3aed?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+<img src="https://img.shields.io/badge/Packer-7c3aed?style=for-the-badge&logo=packer&logoColor=white" alt="Packer"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>🤖 AI & ML</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-<img src="https://img.shields.io/badge/CrewAI-171717?style=for-the-badge&logoColor=white" alt="CrewAI"/>
-<img src="https://img.shields.io/badge/vLLM-4B0082?style=for-the-badge&logoColor=white" alt="vLLM"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Bedrock-6366f1?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock"/>
+<img src="https://img.shields.io/badge/PyTorch-6366f1?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/MLflow-6366f1?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/CrewAI-6366f1?style=for-the-badge&logoColor=white" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/vLLM-6366f1?style=for-the-badge&logoColor=white" alt="vLLM"/>
+<img src="https://img.shields.io/badge/n8n-6366f1?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>🔄 CI/CD & GitOps</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-4f46e5?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/ArgoCD-4f46e5?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+<img src="https://img.shields.io/badge/Helm-4f46e5?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+<img src="https://img.shields.io/badge/GitLab_CI-4f46e5?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>📊 Observability</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/Prometheus-3b82f6?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-3b82f6?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-3b82f6?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>💻 Languages</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Python-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-2563eb?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Flutter-2563eb?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </td>
 </tr>
 </table>
