@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_eric--n.com-4285F4?style=for-the-badge)](https://eric-n.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-nguyenit)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@eric-n.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github-s@eric-n.com)
 
 </div>
 
@@ -24,9 +24,20 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 
 | Project | What It Does |
 |---|---|
-| [**CodeGuardian AI**](https://github.com/asian-code/CodeGuardian-AI) | AI security code reviewer on AWS EKS — Bedrock Claude, Terraform, ArgoCD GitOps, 6-layer defense-in-depth |
-| [**AI Agent Platform**](https://github.com/asian-code/AI-Agent-Platform) | Multi-agent DevOps automation with CrewAI — infra review, security scanning, docs generation |
-| [**MLOps Pipeline**](https://github.com/asian-code/MLOps-Pipeline) | End-to-end ML lifecycle on Kubernetes — MLflow, Argo Workflows, vLLM serving, Prometheus monitoring |
+| [**CodeGuardian AI**](https://github.com/c0debyeric/CodeGuardian-AI) | AI security code reviewer on AWS EKS — Bedrock Claude, Terraform, ArgoCD GitOps, 6-layer defense-in-depth |
+| [**AI Agent Platform**](https://github.com/c0debyeric/AI-Agent-Platform) | Multi-agent DevOps automation with CrewAI — infra review, security scanning, docs generation |
+| [**MLOps Pipeline**](https://github.com/c0debyeric/MLOps-Pipeline) | End-to-end ML lifecycle on Kubernetes — MLflow, Argo Workflows, vLLM serving, Prometheus monitoring |
+
+### Certifications
+
+<div align="center">
+
+[![AWS Solutions Architect](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
+[![AWS AI Practitioner](https://images.credly.com/size/100x100/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner)
+[![Azure Administrator](https://images.credly.com/size/100x100/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
+[![Terraform Associate](https://images.credly.com/size/100x100/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](https://www.credly.com/org/hashicorp/badge/hashicorp-certified-terraform-associate-003)
+
+</div>
 
 ### Tech Stack
 
