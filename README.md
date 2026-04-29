@@ -42,41 +42,42 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 
 ### Tech Stack
 
+<table align="center">
+<tr>
+<td align="center" width="160"><b>☁️ Cloud & IaC</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker&theme=dark" alt="Cloud & IaC"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🤖 AI & ML</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws,pytorch,python&theme=dark" alt="AI & ML"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🔄 CI/CD & GitOps</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=githubactions,kubernetes,helm&theme=dark" alt="CI/CD & GitOps"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>📊 Observability</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Observability"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>💻 Languages</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,flutter&theme=dark" alt="Languages"/>
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-#### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-#### AI & ML Infrastructure
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge)
-
-#### CI/CD & GitOps
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-#### Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
+[![Download My Resume](https://img.shields.io/badge/📄_Download_My_Resume-4a90e2?style=for-the-badge&logoColor=white)](https://eric-n.com/resume)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=80&section=footer)
 
