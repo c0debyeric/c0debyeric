@@ -47,8 +47,8 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 
 <div align="center">
 
-<a href="https://github.com/c0debyeric/CodeGuardian-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=c0debyeric&repo=CodeGuardian-AI&theme=react&bg_color=161b22&title_color=9b6dff&icon_color=4a90e2&hide_border=false&border_color=30363d" width="400"/>
+<a href="https://github.com/c0debyeric/llm-inference-platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=c0debyeric&repo=llm-inference-platform&theme=react&bg_color=161b22&title_color=9b6dff&icon_color=4a90e2&hide_border=false&border_color=30363d" width="400"/>
 </a>
 <a href="https://github.com/c0debyeric/AI-Agent-Platform">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=c0debyeric&repo=AI-Agent-Platform&theme=react&bg_color=161b22&title_color=9b6dff&icon_color=4a90e2&hide_border=false&border_color=30363d" width="400"/>
