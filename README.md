@@ -137,3 +137,4 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 </a>
 
 </div>
+<!-- Stats updated on 2026-05-03 00:53:26 UTC -->
