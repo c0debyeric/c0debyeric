@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=220&section=header&text=Eric%20Nguyen&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Platform%20Engineer%20%7C%20AI%20Infrastructure%20%7C%20Kubernetes&descSize=18&descAlignY=50&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=220&section=header&text=Eric%20Nguyen&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Senior%20AI%20Platform%20Engineer%20%7C%20Agentic%20Platforms%20%7C%20AWS&descSize=18&descAlignY=50&descAlign=50)
 
 <!-- Typing SVG -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -32,13 +32,13 @@
 
 ## 🚀 About Me
 
-Platform Engineer building the infrastructure that AI runs on. I design, build, and operate self-service cloud platforms, AI-powered automation, and Kubernetes-based delivery systems at enterprise scale.
+**Senior AI Platform Engineer** building the infrastructure that AI runs on. I design, build, and operate agentic workflow platforms, internal developer portals, and the governed cloud foundations underneath them at enterprise scale.
 
 **What I work on:**
-- Self-service infrastructure platforms (ServiceNow → HCP Terraform automated provisioning)
-- AI-native platform tooling — RAG pipelines, agentic workflows, LLM-powered automation
-- Kubernetes (EKS) with GitOps delivery, security-first networking, and full observability
-- Infrastructure as Code at scale (~200 AWS accounts, multi-cloud governance)
+- A $250K agentic workflow platform + internal developer portal serving every operations team in a Fortune 500 IT org
+- AI-native platform tooling — production RAG on Bedrock Knowledge Bases, multi-agent AgentCore workflows, MCP tool layers
+- Self-service infrastructure (Teams/ServiceNow → HCP Terraform automated provisioning) with human-in-the-loop approval
+- Infrastructure as Code at scale (200+ AWS accounts, multi-cloud governance, Sentinel policy-as-code)
 
 <!-- Divider 2 -->
 <img src="./assets/divider-2.svg" alt="divider" width="100%">
@@ -137,15 +137,4 @@ Platform Engineer building the infrastructure that AI runs on. I design, build, 
 </a>
 
 </div>
-<!-- Stats updated on 2026-05-03 00:53:26 UTC -->
-<!-- Stats updated on 2026-05-10 00:54:59 UTC -->
-<!-- Stats updated on 2026-05-17 00:56:41 UTC -->
-<!-- Stats updated on 2026-05-24 00:58:54 UTC -->
-<!-- Stats updated on 2026-05-31 01:02:22 UTC -->
-<!-- Stats updated on 2026-06-07 01:04:57 UTC -->
-<!-- Stats updated on 2026-06-14 01:07:02 UTC -->
-<!-- Stats updated on 2026-06-21 01:08:45 UTC -->
-<!-- Stats updated on 2026-06-28 01:02:04 UTC -->
-<!-- Stats updated on 2026-07-05 00:50:28 UTC -->
-<!-- Stats updated on 2026-07-12 02:57:28 UTC -->
 <!-- Stats updated on 2026-07-19 02:54:44 UTC -->

@@ -21,9 +21,18 @@ jobs:
 
       - name: Update README timestamp
         run: |
-          # Add a comment with timestamp to trigger README refresh
-          # This ensures the stats widgets reload with fresh data
-          echo "<!-- Stats updated on $(date -u +'%Y-%m-%d %H:%M:%S UTC') -->" >> README.md
+          # Bumping a trailing marker comment forces GitHub's image proxy (camo) to
+          # re-fetch the stats/badge SVGs, which are otherwise cached for days.
+          # REPLACE the existing marker rather than appending: the original version
+          # appended a new line every Sunday, so the README accumulated a dozen dead
+          # comment lines and grew without bound.
+          MARKER="<!-- Stats updated on $(date -u +'%Y-%m-%d %H:%M:%S UTC') -->"
+          if grep -q '^<!-- Stats updated on ' README.md; then
+            # Drop every historical marker, then append exactly one fresh line.
+            grep -v '^<!-- Stats updated on ' README.md > README.tmp
+            mv README.tmp README.md
+          fi
+          printf '%s\n' "$MARKER" >> README.md
 
       - name: Commit and push if changed
         run: |
