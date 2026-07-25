@@ -91,9 +91,9 @@ EKS to the 2026 golden standard — Terraform + **Karpenter** + **ArgoCD** GitOp
 Hierarchical **CrewAI** crew (Researcher / Analyst / Editor under a manager agent) on Amazon Bedrock, scheduled on Lambda, delivering briefs to Discord. 100% Terraform-managed, GitHub OIDC.
 `CrewAI` `Bedrock` `Lambda` `Terraform` `Python`
 
-### 🚀 [llm-inference-platform](https://github.com/c0debyeric/llm-inference-platform)
-OpenAI-compatible inference API on EKS — multi-provider routing, per-tenant quotas, cost attribution, PII guardrails, full GitOps observability.
-`vLLM` `EKS` `GitOps` `Python`
+### 🔎 [aws-resource-inventory](https://github.com/c0debyeric/aws-resource-inventory)
+Org-wide scanner that detects every resource across an AWS Organization — 37+ AWS and 24+ Azure resource types in parallel, OIDC auth, GitHub Actions automation with S3 upload and Teams notifications.
+`Python` `AWS Organizations` `GitHub Actions` `OIDC`
 
 ### 🗃️ [Terraform-aws-bulk-import](https://github.com/c0debyeric/Terraform-aws-bulk-import)
 Rips thousands of unmanaged AWS resources into Terraform state at scale — parallelized across accounts and regions, auditable, zero guesswork.
