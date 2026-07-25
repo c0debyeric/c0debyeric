@@ -34,30 +34,70 @@
 
 **Senior AI Platform Engineer** building the infrastructure that AI runs on. I design, build, and operate agentic workflow platforms, internal developer portals, and the governed cloud foundations underneath them at enterprise scale.
 
-**What I work on:**
-- A $250K agentic workflow platform + internal developer portal serving every operations team in a Fortune 500 IT org
-- AI-native platform tooling — production RAG on Bedrock Knowledge Bases, multi-agent AgentCore workflows, MCP tool layers
-- Self-service infrastructure (Teams/ServiceNow → HCP Terraform automated provisioning) with human-in-the-loop approval
-- Infrastructure as Code at scale (200+ AWS accounts, multi-cloud governance, Sentinel policy-as-code)
+My actual rule is simpler than that: **if I do it twice, it gets a pipeline.**
+
+**Things I've shipped that moved a number:**
+- **3 days → 10 minutes** — AWS account provisioning, by replacing a ClickOps runbook with an agent in Microsoft Teams that vends accounts through HCP Terraform with human-gated approval
+- **5,000+ documents, 10+ engineers** — production RAG on Bedrock Knowledge Bases with hybrid retrieval, Cohere reranking, and citation-grounded answers
+- **45K+ resources across 200+ AWS accounts** — discovered and scaffolded into Terraform state by a parallel asyncio engine, migrating an org off ClickOps
+- **$250K / 9 months** — the agentic workflow platform + internal developer portal I currently own end to end for a Fortune 500 IT org
 
 <!-- Divider 2 -->
 <img src="./assets/divider-2.svg" alt="divider" width="100%">
 
-## 🛠️ Featured Projects
+## 🔨 Now
+
+*Updated July 2026*
+
+- Building a central agentic workflow platform so every ops team in the org has one governed place to run agent automation — shared agent, MCP tool-access, and human-approval standards instead of ten teams inventing their own
+- Rebuilding my EKS platform to the 2026 golden standard: Karpenter, ArgoCD, and a teardown/spin-up lifecycle cheap enough to run in a personal account → [`eks-golden-platform`](https://github.com/c0debyeric/eks-golden-platform)
+- Running local LLMs in the homelab for when the API credits run out — and to keep an honest baseline on what managed inference is actually worth
+- Automating my own life to an unreasonable degree: cron-driven morning briefings, an agent-run job-search pipeline, a fitness tracker I wrote instead of downloading
+
+<!-- Divider 2b -->
+<img src="./assets/divider-3.svg" alt="divider" width="100%">
+
+## 📊 Stats
 
 <div align="center">
 
-<a href="https://github.com/c0debyeric/llm-inference-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=c0debyeric&repo=llm-inference-platform&theme=react&bg_color=161b22&title_color=9b6dff&icon_color=4a90e2&hide_border=false&border_color=30363d" width="400"/>
-</a>
-<a href="https://github.com/c0debyeric/AI-Agent-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=c0debyeric&repo=AI-Agent-Platform&theme=react&bg_color=161b22&title_color=9b6dff&icon_color=4a90e2&hide_border=false&border_color=30363d" width="400"/>
-</a>
-<a href="https://github.com/c0debyeric/MLOps-Pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=c0debyeric&repo=MLOps-Pipeline&theme=react&bg_color=161b22&title_color=9b6dff&icon_color=4a90e2&hide_border=false&border_color=30363d" width="400"/>
-</a>
+<!-- github-profile-summary-cards + streak-stats, deliberately NOT github-readme-stats:
+     that public instance was returning 503 DEPLOYMENT_PAUSED as of 2026-07-24, which
+     silently turns every card into a broken-image icon. Every endpoint used here was
+     verified returning 200 + image/svg+xml. -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0debyeric&theme=github_dark" width="100%"/>
+
+<img src="https://streak-stats.demolab.com/?user=c0debyeric&theme=react&background=161b22&border=30363d&ring=9b6dff&fire=9b6dff&currStreakLabel=4a90e2&hide_border=false" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0debyeric&theme=github_dark" height="180"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=c0debyeric&theme=react-dark&bg_color=161b22&color=9b6dff&line=4a90e2&point=ffffff&hide_border=false&border_color=30363d&area=true" width="100%"/>
 
 </div>
+
+<!-- Divider: Now -->
+<img src="./assets/divider-2.svg" alt="divider" width="100%">
+
+## 🛠️ Featured Projects
+
+<!-- Plain-markdown cards instead of github-readme-stats pin images: the pin endpoint
+     was down (503 DEPLOYMENT_PAUSED) on 2026-07-24, and a dead third-party image is a
+     worse first impression than text. This renders forever with zero dependencies. -->
+
+### ⎈ [eks-golden-platform](https://github.com/c0debyeric/eks-golden-platform)
+EKS to the 2026 golden standard — Terraform + **Karpenter** + **ArgoCD** GitOps with Prometheus/Grafana/Loki/OpenTelemetry, and a teardown/spin-up lifecycle cheap enough to leave off overnight.
+`Terraform` `EKS` `Karpenter` `ArgoCD` `OpenTelemetry`
+
+### 🤖 [crewai-research-pipeline](https://github.com/c0debyeric/crewai-research-pipeline)
+Hierarchical **CrewAI** crew (Researcher / Analyst / Editor under a manager agent) on Amazon Bedrock, scheduled on Lambda, delivering briefs to Discord. 100% Terraform-managed, GitHub OIDC.
+`CrewAI` `Bedrock` `Lambda` `Terraform` `Python`
+
+### 🚀 [llm-inference-platform](https://github.com/c0debyeric/llm-inference-platform)
+OpenAI-compatible inference API on EKS — multi-provider routing, per-tenant quotas, cost attribution, PII guardrails, full GitOps observability.
+`vLLM` `EKS` `GitOps` `Python`
+
+### 🗃️ [Terraform-aws-bulk-import](https://github.com/c0debyeric/Terraform-aws-bulk-import)
+Rips thousands of unmanaged AWS resources into Terraform state at scale — parallelized across accounts and regions, auditable, zero guesswork.
+`Terraform` `Python` `AWS Organizations`
 
 <!-- Divider 3 -->
 <img src="./assets/divider-3.svg" alt="divider" width="100%">
@@ -70,7 +110,7 @@
 [![AWS AI Practitioner](https://images.credly.com/size/100x100/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner)
 [![AWS GenAI Developer](https://images.credly.com/size/100x100/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional)
 [![Azure Administrator](https://images.credly.com/size/100x100/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
-[![Terraform Associate](https://images.credly.com/size/100x100/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/org/hashicorp/badge/hashicorp-certified-terraform-associate-004)
+[![Terraform Associate](https://images.credly.com/size/100x100/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/badges/hashicorp-certified-terraform-associate-004)
 
 </div>
 
