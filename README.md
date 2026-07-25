@@ -54,28 +54,8 @@ My actual rule is simpler than that: **if I do it twice, it gets a pipeline.**
 - Running local LLMs in the homelab for when the API credits run out — and to keep an honest baseline on what managed inference is actually worth
 - Automating my own life to an unreasonable degree: cron-driven morning briefings, an agent-run job-search pipeline, a fitness tracker I wrote instead of downloading
 
-<!-- Divider 2b -->
+<!-- Divider: Featured -->
 <img src="./assets/divider-3.svg" alt="divider" width="100%">
-
-## 📊 Stats
-
-<div align="center">
-
-<!-- github-profile-summary-cards + streak-stats, deliberately NOT github-readme-stats:
-     that public instance was returning 503 DEPLOYMENT_PAUSED as of 2026-07-24, which
-     silently turns every card into a broken-image icon. Every endpoint used here was
-     verified returning 200 + image/svg+xml. -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0debyeric&theme=github_dark" width="100%"/>
-
-<img src="https://streak-stats.demolab.com/?user=c0debyeric&theme=react&background=161b22&border=30363d&ring=9b6dff&fire=9b6dff&currStreakLabel=4a90e2&hide_border=false" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0debyeric&theme=github_dark" height="180"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=c0debyeric&theme=react-dark&bg_color=161b22&color=9b6dff&line=4a90e2&point=ffffff&hide_border=false&border_color=30363d&area=true" width="100%"/>
-
-</div>
-
-<!-- Divider: Now -->
-<img src="./assets/divider-2.svg" alt="divider" width="100%">
 
 ## 🛠️ Featured Projects
 
@@ -121,51 +101,53 @@ Rips thousands of unmanaged AWS resources into Terraform state at scale — para
 
 <table align="center">
 <tr>
-<td align="center" width="160"><b>☁️ Cloud & IaC</b></td>
+<td align="center" width="170"><b>🤖 AI &amp; Agents</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/AWS-7c3aed?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Azure-7c3aed?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Terraform-7c3aed?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Kubernetes-7c3aed?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Ansible-7c3aed?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-<img src="https://img.shields.io/badge/Packer-7c3aed?style=for-the-badge&logo=packer&logoColor=white" alt="Packer"/>
+<img src="https://img.shields.io/badge/Bedrock_AgentCore-7c3aed?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock AgentCore"/>
+<img src="https://img.shields.io/badge/LangGraph-7c3aed?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangChain-7c3aed?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/MCP-7c3aed?style=for-the-badge&logoColor=white" alt="MCP"/>
+<img src="https://img.shields.io/badge/CrewAI-7c3aed?style=for-the-badge&logoColor=white" alt="CrewAI"/>
 </td>
 </tr>
 <tr>
-<td align="center"><b>🤖 AI & ML</b></td>
+<td align="center"><b>🧠 RAG &amp; Evals</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/Bedrock-6366f1?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock"/>
-<img src="https://img.shields.io/badge/PyTorch-6366f1?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/MLflow-6366f1?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-<img src="https://img.shields.io/badge/CrewAI-6366f1?style=for-the-badge&logoColor=white" alt="CrewAI"/>
-<img src="https://img.shields.io/badge/vLLM-6366f1?style=for-the-badge&logoColor=white" alt="vLLM"/>
-<img src="https://img.shields.io/badge/n8n-6366f1?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Bedrock_Knowledge_Bases-6366f1?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock Knowledge Bases"/>
+<img src="https://img.shields.io/badge/pgvector-6366f1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+<img src="https://img.shields.io/badge/Cohere_Rerank-6366f1?style=for-the-badge&logoColor=white" alt="Cohere Rerank"/>
+<img src="https://img.shields.io/badge/LangSmith-6366f1?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
+<img src="https://img.shields.io/badge/DeepEval-6366f1?style=for-the-badge&logoColor=white" alt="DeepEval"/>
 </td>
 </tr>
 <tr>
-<td align="center"><b>🔄 CI/CD & GitOps</b></td>
+<td align="center"><b>☁️ Cloud &amp; IaC</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/GitHub_Actions-4f46e5?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/ArgoCD-4f46e5?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-<img src="https://img.shields.io/badge/Helm-4f46e5?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-<img src="https://img.shields.io/badge/GitLab_CI-4f46e5?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+<img src="https://img.shields.io/badge/AWS-4f46e5?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure-4f46e5?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Terraform-4f46e5?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/HCP_Terraform-4f46e5?style=for-the-badge&logo=terraform&logoColor=white" alt="HCP Terraform"/>
+<img src="https://img.shields.io/badge/Sentinel-4f46e5?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Sentinel"/>
 </td>
 </tr>
 <tr>
-<td align="center"><b>📊 Observability</b></td>
+<td align="center"><b>⎈ K8s &amp; Delivery</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/Prometheus-3b82f6?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-3b82f6?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-3b82f6?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/Kubernetes-3b82f6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/ArgoCD-3b82f6?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+<img src="https://img.shields.io/badge/Helm-3b82f6?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+<img src="https://img.shields.io/badge/Docker-3b82f6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-3b82f6?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </td>
 </tr>
 <tr>
-<td align="center"><b>💻 Languages</b></td>
+<td align="center"><b>💻 Code &amp; Signals</b></td>
 <td align="center">
 <img src="https://img.shields.io/badge/Python-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Bash-2563eb?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Flutter-2563eb?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/PowerShell-2563eb?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+<img src="https://img.shields.io/badge/Grafana-2563eb?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-2563eb?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
 </td>
 </tr>
 </table>
@@ -177,4 +159,3 @@ Rips thousands of unmanaged AWS resources into Terraform state at scale — para
 </a>
 
 </div>
-<!-- Stats updated on 2026-07-19 02:54:44 UTC -->
