@@ -104,41 +104,41 @@ Rips thousands of unmanaged AWS resources into Terraform state at scale — para
 <tr>
 <td align="center"><b>🧠 RAG &amp; Evals</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/Bedrock_Knowledge_Bases-0d9488?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock Knowledge Bases"/>
-<img src="https://img.shields.io/badge/pgvector-0d9488?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
-<img src="https://img.shields.io/badge/Cohere_Rerank-0d9488?style=for-the-badge&logoColor=white" alt="Cohere Rerank"/>
-<img src="https://img.shields.io/badge/LangSmith-0d9488?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
-<img src="https://img.shields.io/badge/DeepEval-0d9488?style=for-the-badge&logoColor=white" alt="DeepEval"/>
+<img src="https://img.shields.io/badge/Bedrock_Knowledge_Bases-0f766e?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock Knowledge Bases"/>
+<img src="https://img.shields.io/badge/pgvector-0f766e?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+<img src="https://img.shields.io/badge/Cohere_Rerank-0f766e?style=for-the-badge&logoColor=white" alt="Cohere Rerank"/>
+<img src="https://img.shields.io/badge/LangSmith-0f766e?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
+<img src="https://img.shields.io/badge/DeepEval-0f766e?style=for-the-badge&logoColor=white" alt="DeepEval"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>☁️ Cloud &amp; IaC</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/AWS-ea580c?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Azure-ea580c?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Terraform-ea580c?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/HCP_Terraform-ea580c?style=for-the-badge&logo=terraform&logoColor=white" alt="HCP Terraform"/>
-<img src="https://img.shields.io/badge/Sentinel-ea580c?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Sentinel"/>
+<img src="https://img.shields.io/badge/AWS-c2410c?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure-c2410c?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Terraform-c2410c?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/HCP_Terraform-c2410c?style=for-the-badge&logo=terraform&logoColor=white" alt="HCP Terraform"/>
+<img src="https://img.shields.io/badge/Sentinel-c2410c?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Sentinel"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>⎈ K8s &amp; Delivery</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/Kubernetes-3b82f6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/ArgoCD-3b82f6?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-<img src="https://img.shields.io/badge/Helm-3b82f6?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-<img src="https://img.shields.io/badge/Docker-3b82f6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-3b82f6?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Kubernetes-2563eb?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/ArgoCD-2563eb?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+<img src="https://img.shields.io/badge/Helm-2563eb?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+<img src="https://img.shields.io/badge/Docker-2563eb?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2563eb?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>💻 Code &amp; Signals</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/Python-16a34a?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Bash-16a34a?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/PowerShell-16a34a?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-<img src="https://img.shields.io/badge/Grafana-16a34a?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-16a34a?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/Python-15803d?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-15803d?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/PowerShell-15803d?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+<img src="https://img.shields.io/badge/Grafana-15803d?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-15803d?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
 </td>
 </tr>
 </table>
