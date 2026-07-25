@@ -28,13 +28,10 @@
 
 </div>
 
-<!-- Divider 1 -->
+<!-- Divider: hero -> body. The only decorative divider kept; markdown ## headings
+     already separate every other section, so the rest were 4 extra network requests
+     buying nothing. -->
 <img src="./assets/divider-1.svg" alt="divider" width="100%">
-
-<!-- About Me Section Banner -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf620,50:4a90e220,100:8b5cf620&height=1" width="100%"/>
-</div>
 
 ## 🚀 About Me
 
@@ -48,9 +45,6 @@ My actual rule is simpler than that: **if I do it twice, it gets a pipeline.**
 - **45K+ resources across 200+ AWS accounts** — discovered and scaffolded into Terraform state by a parallel asyncio engine, migrating an org off ClickOps
 - **$250K / 9 months** — the agentic workflow platform + internal developer portal I currently own end to end for a Fortune 500 IT org
 
-<!-- Divider 2 -->
-<img src="./assets/divider-2.svg" alt="divider" width="100%">
-
 ## 🔨 Now
 
 *Updated July 2026*
@@ -59,9 +53,6 @@ My actual rule is simpler than that: **if I do it twice, it gets a pipeline.**
 - Rebuilding my EKS platform to the 2026 golden standard: Karpenter, ArgoCD, and a teardown/spin-up lifecycle cheap enough to run in a personal account → [`eks-golden-platform`](https://github.com/c0debyeric/eks-golden-platform)
 - Running local LLMs in the homelab for when the API credits run out — and to keep an honest baseline on what managed inference is actually worth
 - Automating my own life to an unreasonable degree: cron-driven morning briefings, an agent-run job-search pipeline, a fitness tracker I wrote instead of downloading
-
-<!-- Divider: Featured -->
-<img src="./assets/divider-3.svg" alt="divider" width="100%">
 
 ## 🛠️ Featured Projects
 
@@ -85,9 +76,6 @@ Org-wide scanner that detects every resource across an AWS Organization — 37+ 
 Rips thousands of unmanaged AWS resources into Terraform state at scale — parallelized across accounts and regions, auditable, zero guesswork.
 `Terraform` `Python` `AWS Organizations`
 
-<!-- Divider 3 -->
-<img src="./assets/divider-3.svg" alt="divider" width="100%">
-
 ## 🏆 Certifications
 
 <div align="center">
@@ -99,9 +87,6 @@ Rips thousands of unmanaged AWS resources into Terraform state at scale — para
 [![Terraform Associate](https://images.credly.com/size/100x100/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/badges/hashicorp-certified-terraform-associate-004)
 
 </div>
-
-<!-- Divider 4 -->
-<img src="./assets/divider-4.svg" alt="divider" width="100%">
 
 ## ⚙️ Tech Stack
 
@@ -119,21 +104,21 @@ Rips thousands of unmanaged AWS resources into Terraform state at scale — para
 <tr>
 <td align="center"><b>🧠 RAG &amp; Evals</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/Bedrock_Knowledge_Bases-6366f1?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock Knowledge Bases"/>
-<img src="https://img.shields.io/badge/pgvector-6366f1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
-<img src="https://img.shields.io/badge/Cohere_Rerank-6366f1?style=for-the-badge&logoColor=white" alt="Cohere Rerank"/>
-<img src="https://img.shields.io/badge/LangSmith-6366f1?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
-<img src="https://img.shields.io/badge/DeepEval-6366f1?style=for-the-badge&logoColor=white" alt="DeepEval"/>
+<img src="https://img.shields.io/badge/Bedrock_Knowledge_Bases-0d9488?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock Knowledge Bases"/>
+<img src="https://img.shields.io/badge/pgvector-0d9488?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+<img src="https://img.shields.io/badge/Cohere_Rerank-0d9488?style=for-the-badge&logoColor=white" alt="Cohere Rerank"/>
+<img src="https://img.shields.io/badge/LangSmith-0d9488?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
+<img src="https://img.shields.io/badge/DeepEval-0d9488?style=for-the-badge&logoColor=white" alt="DeepEval"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>☁️ Cloud &amp; IaC</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/AWS-4f46e5?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Azure-4f46e5?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Terraform-4f46e5?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/HCP_Terraform-4f46e5?style=for-the-badge&logo=terraform&logoColor=white" alt="HCP Terraform"/>
-<img src="https://img.shields.io/badge/Sentinel-4f46e5?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Sentinel"/>
+<img src="https://img.shields.io/badge/AWS-ea580c?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure-ea580c?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Terraform-ea580c?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/HCP_Terraform-ea580c?style=for-the-badge&logo=terraform&logoColor=white" alt="HCP Terraform"/>
+<img src="https://img.shields.io/badge/Sentinel-ea580c?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Sentinel"/>
 </td>
 </tr>
 <tr>
@@ -149,11 +134,11 @@ Rips thousands of unmanaged AWS resources into Terraform state at scale — para
 <tr>
 <td align="center"><b>💻 Code &amp; Signals</b></td>
 <td align="center">
-<img src="https://img.shields.io/badge/Python-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Bash-2563eb?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/PowerShell-2563eb?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-<img src="https://img.shields.io/badge/Grafana-2563eb?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-2563eb?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/Python-16a34a?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-16a34a?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/PowerShell-16a34a?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+<img src="https://img.shields.io/badge/Grafana-16a34a?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-16a34a?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
 </td>
 </tr>
 </table>
