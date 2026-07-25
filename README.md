@@ -2,12 +2,17 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=220&section=header&text=Eric%20Nguyen&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Senior%20AI%20Platform%20Engineer%20%7C%20Agentic%20Platforms%20%7C%20AWS&descSize=18&descAlignY=50&descAlign=50)
 
-<!-- Typing SVG -->
+<!-- Typing SVG — wrapped in its own <p> because GitHub collapses consecutive inline
+     <a><img> blocks inside a centered <div> into ONE paragraph, which put the social
+     badges on the same line and clipped the animation mid-word. -->
+<p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=The%20man%20who%20automates%20everything;If%20I%20did%20it%20twice%2C%20it's%20getting%20a%20pipeline&font=Fira%20Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=800&duration=3000&size=20" />
+<img src="https://readme-typing-svg.demolab.com/?lines=The%20man%20who%20automates%20everything;If%20I%20did%20it%20twice%2C%20it's%20getting%20a%20pipeline&font=Fira%20Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=800&duration=3000&size=20" alt="Typing SVG"/>
 </a>
+</p>
 
-<!-- Social badges -->
+<!-- Social badges — own <p> for the same reason as the typing SVG above. -->
+<p align="center">
 <a href="https://eric-n.com">
 <img alt="Website" src="https://img.shields.io/badge/eric--n.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
@@ -19,6 +24,7 @@
 <a href="mailto:github-s@eric-n.com">
 <img alt="Email" src="https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
 </div>
 
